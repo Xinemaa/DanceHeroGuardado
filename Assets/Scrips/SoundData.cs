@@ -4,5 +4,5 @@ using UnityEngine;
 public class SoundData : ScriptableObject
 {
    public string animationName;
-   public string SongName;
+   public string songName;
 }
