@@ -1,0 +1,13 @@
+{
+    "notes": [
+    {"laneIndex": 0, "spawnTime":1},
+    {"laneIndex": 0, "spawnTime":2},
+    {"laneIndex": 0, "spawnTime":2.5},
+    {"laneIndex": 0, "spawnTime":3},
+    {"laneIndex": 0, "spawnTime":4},
+    {"laneIndex": 0, "spawnTime":5},
+    {"laneIndex": 0, "spawnTime":6},
+    {"laneIndex": 0, "spawnTime":7}
+
+    ]
+}

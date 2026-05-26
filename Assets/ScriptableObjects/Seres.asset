@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Seres
   m_EditorClassIdentifier: Assembly-CSharp::SoundData
   animationName: JonesDancing1
-  SongName: Seres
+  songName: Seres
+  noteChart: {fileID: 4900000, guid: 5cb3ebe0276a8894f884e830ba00284c, type: 3}
+  speed: 300

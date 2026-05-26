@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Jormu
   m_EditorClassIdentifier: Assembly-CSharp::SoundData
   animationName: JonesDancing2
-  SongName: Jormu
+  songName: Jormu
+  noteChart: {fileID: 4900000, guid: 5cb3ebe0276a8894f884e830ba00284c, type: 3}
+  speed: 300
