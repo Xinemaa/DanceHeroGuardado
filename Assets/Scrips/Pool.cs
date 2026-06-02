@@ -44,5 +44,7 @@ public class Pool : MonoBehaviour
         {
             obj.SetActive(false);
         }
+        activeObjects.Clear();
+        currentObject = null;
     }
 }
