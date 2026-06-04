@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 545bbbf68f6aba24eb2d9b3e323f2d72, type: 3}
-  m_Name: Seres
+  m_Name: Capoeira
   m_EditorClassIdentifier: Assembly-CSharp::SoundData
-  animationName: JonesDancing1
-  songName: Seres
-  noteChart: {fileID: 4900000, guid: 11647dab6105a764e9fea18833269df1, type: 3}
+  animationName: JonesCapoeira
+  songName: Capoeira
+  noteChart: {fileID: 4900000, guid: 75ad4fca3fa355d419017f5bfd0be47f, type: 3}
   speed: 300
