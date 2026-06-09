@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4985448079107365464}
   - component: {fileID: 2649264215287029686}
   - component: {fileID: 5707956935242609907}
+  - component: {fileID: 127322355687879501}
   m_Layer: 5
   m_Name: GreenNote
   m_TagString: Note
@@ -150,3 +151,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &127322355687879501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8969229694632706332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 863d0e77e2580d141a47bfecd749c3a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Note
+  speed: 5
